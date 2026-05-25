@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\codes\\dotnet project\\Employee.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D3ABE9-32DA-4B3F-891F-0B1D82F97AEF}|Employee.api\\Employee.api.csproj|e:\\codes\\dotnet project\\employee.api\\employee.api\\controllers\\departmentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D3ABE9-32DA-4B3F-891F-0B1D82F97AEF}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\controllers\\departmentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D3ABE9-32DA-4B3F-891F-0B1D82F97AEF}|Employee.api\\Employee.api.csproj|e:\\codes\\dotnet project\\employee.api\\employee.api\\employee.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{02D3ABE9-32DA-4B3F-891F-0B1D82F97AEF}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\employee.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D3ABE9-32DA-4B3F-891F-0B1D82F97AEF}|Employee.api\\Employee.api.csproj|e:\\codes\\dotnet project\\employee.api\\employee.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D3ABE9-32DA-4B3F-891F-0B1D82F97AEF}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\codes\\dotnet project\\Employee.api\\Employee.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\codes\\dotnet project\\Employee.api\\Employee.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Employee.api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:06:59.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentMasterController.cs",
+              "DocumentMoniker": "E:\\codes\\dotnet project\\Employee.api\\Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "ToolTip": "E:\\codes\\dotnet project\\Employee.api\\Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "RelativeToolTip": "Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:35:11.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.api.http",
+              "DocumentMoniker": "E:\\codes\\dotnet project\\Employee.api\\Employee.api\\Employee.api.http",
+              "RelativeDocumentMoniker": "Employee.api\\Employee.api.http",
+              "ToolTip": "E:\\codes\\dotnet project\\Employee.api\\Employee.api\\Employee.api.http",
+              "RelativeToolTip": "Employee.api\\Employee.api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-16T16:11:45.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
